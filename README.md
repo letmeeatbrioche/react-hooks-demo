@@ -9,8 +9,9 @@ For the moment, these hooks are
 
 How to use
 install React dependencies
-npm install react
-npm react-dom
+- npm install react
+- npm install react-dom
+- npm install express
 
 Any more React files/components you use, import React and the hooks you want to use
 import React, { useState, useEffect, useRef } from 'react'
